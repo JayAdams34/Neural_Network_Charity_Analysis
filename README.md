@@ -1,4 +1,6 @@
 # Neural_Network_Charity_Analysis 
+Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
+
 
 ## Neural_Network_Charity_Analysis Overview
   The purpose of this analysis was to use features in the provided dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
